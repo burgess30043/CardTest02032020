@@ -9,6 +9,8 @@ package javacardnew;
  * add your name as a modifier.
  * @author dancye
  * @modifiedBy HsiaoHsienKuo 991562344
+ * change sth!
+ *
  */
 public class Card {
 
